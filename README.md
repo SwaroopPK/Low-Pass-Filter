@@ -2,7 +2,7 @@
 
  This is a simple Sallen key circuit.
  
-#Components included
+Components included
  1.AD8051
  2.Resistors:- 2k and 110 ohm
  3.Capacitors:- 2.2nF and 5.1nF
