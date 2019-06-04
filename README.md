@@ -1,6 +1,7 @@
 # Sallen Key Low-Pass-Filter
 
- This is a simple Sallen key circuit designed using KiCad.
+ This is a simple Sallen key circuit designed using KiCad. A SallenKey Filter Low Pass Filter is a circuit which allows low frequency
+ signals to pass through and blocks the higher frequency signal. The enclosed circuit is designed to obtain a cut-off frequency of 100KHz and the components aree chosen in order to obtain the required cut-off.
  
 Components included
  1.OpAmp:- AD8051 
