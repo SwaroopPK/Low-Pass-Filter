@@ -6,6 +6,7 @@
 ## Components Included:-
 
   * OpAmp:- AD8051
+       ( *AD8051 datasheet for reference* [Datasheet_AD8051](https://www.analog.com/media/en/technical-documentation/data-sheets/AD8051_8052_8054.pdf) )
  
   * Resistors:- 2k and 110 ohm
   
